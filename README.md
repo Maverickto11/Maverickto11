@@ -31,6 +31,16 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Maverickto11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## 🌟 Angular Developer Certification
 
+<a href="https://www.sololearn.com/certificates/CC-N7S0SK8K" target="_blank">
+  <img src="https://github.com/user-attachments/assets/2f6f4c21-f84d-4896-9388-4192969d421d" alt="Angular Developer Certification" width="300" style="max-width: 100%; height: auto;">
+</a>
+
+## 🌟 Java Developer Certification
+
+<a href="https://www.sololearn.com/certificates/CC-TUH79JOI" target="_blank">
+  <img src="https://github.com/user-attachments/assets/84b746b0-db5c-4fbd-87b8-1440c3356f42" alt="Angular Developer Certification" width="300" style="max-width: 100%; height: auto;">
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
