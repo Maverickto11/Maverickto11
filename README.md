@@ -5,6 +5,9 @@
   </a>
 </div>
 
+![responsabilidades-de-un-programador-de-software-scaled](https://github.com/user-attachments/assets/447131c2-176d-4b09-9687-2b04b2eb3968)
+
+
 👨‍💻Desarrollador de Software  <br>🎓 Estudiante de Ingeniería de Software <br>❤️ Apasionado por Angular y Java <br>🌟 Explorando nuevas tecnologías  
 
 
