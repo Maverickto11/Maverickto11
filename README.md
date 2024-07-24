@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="margin: 0;">💫 Hola, Soy Maverick</h1>
+  <h1 style="margin: 0;">Hola, Soy Maverick <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
   <a href="https://visitcount.itsvg.in" target="_blank" align="center">
     <img src="https://visitcount.itsvg.in/api?id=Maverickto11&icon=6&color=0" alt="Visit Count">
   </a>
@@ -20,16 +20,27 @@
 
 ---
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Maverickto11&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<div align="center">
 
+![HitCount](https://github-contributor-stats.vercel.app/api?username=Maverickto11&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+</div>
 
 # 📊 GitHub Stats:
+
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=Maverickto11&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Maverickto11&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maverickto11&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ## 🏆 GitHub Trophies
+
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=Maverickto11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 ## 🌟 Angular Developer Certification
 
