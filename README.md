@@ -1,11 +1,11 @@
 <div align="center">
   <h1 style="margin: 0;">Hola, Soy Maverick <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-  <a href="https://visitcount.itsvg.in" target="_blank" align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Maverickto11&icon=6&color=0" alt="Visit Count">
-  </a>
+ <a href="https://visitcount.itsvg.in" target="_blank" align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Maverickto11&icon=6&color=0" alt="Visit Count">
+</a>
 </div>
 
-![responsabilidades-de-un-programador-de-software-scaled](https://github.com/user-attachments/assets/447131c2-176d-4b09-9687-2b04b2eb3968)
+![HitCount](https://github-contributor-stats.vercel.app/api?username=Maverickto11&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
 👨‍💻Desarrollador de Software | 🎓 Estudiante de Ingeniería de Software | ❤️ Apasionado por Angular y Java | 🌟 Explorando nuevas tecnologías  
