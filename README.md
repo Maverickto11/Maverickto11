@@ -1,8 +1,8 @@
 <div align="center">
   <h1 style="margin: 0;">Hola, Soy Maverick <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-  <a href="https://visitcount.itsvg.in" target="_blank" align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Maverickto11&icon=6&color=0" alt="Visit Count">
-  </a>
+  <a href="https://github.com/Maverickto11" target="_blank" align="center">
+  <img src="https://img.shields.io/github/visitors/Maverickto11/Maverickto11?style=for-the-badge" alt="GitHub Profile Views">
+</a>
 </div>
 
 ![responsabilidades-de-un-programador-de-software-scaled](https://github.com/user-attachments/assets/447131c2-176d-4b09-9687-2b04b2eb3968)
